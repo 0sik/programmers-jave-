@@ -1,5 +1,5 @@
 import java.util.Arrays;
-class Solution {
+public class LV1_6 {
     public long solution(long n) {
         String num = String.valueOf(n);
         String ansnum= "";
