@@ -1,5 +1,5 @@
 //이상한 문자 만들기
-class Solution {
+class Solution11 {
     public String solution(String s) {
         String answer = "";
         String[] str = s.split("");
@@ -20,4 +20,15 @@ class Solution {
         
         return answer;
     }
+}
+public class LV1_11{
+	public static void main(String[] args) {
+		Solution11 solution = new Solution11();
+		String answer = "hello";
+		String arr= solution.solution(answer);
+		String[] str = arr.split("");
+		for(int i=0;i<str.length;i++) {
+			System.out.println(str[i]);
+	}
+}
 }
