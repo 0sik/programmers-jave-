@@ -1,6 +1,4 @@
-//소수찾기
-
-class Solution {
+class Solution13 {
     public int solution(int n) {
         int answer = 0;
         boolean flag = true;
@@ -17,4 +15,10 @@ class Solution {
   
         return answer;
     }
+}
+public class LV1_13{
+	public static void main(String[] args) {
+		Solution13 solution = new Solution13();
+		System.out.println(solution.solution(10));
+	}
 }
