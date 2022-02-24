@@ -5,7 +5,7 @@ class solution{
 		for(int i = 0; i < n; i++) {
 			answer[i]=base*(i+1);
 		}
-		return aswer;
+		return answer;
 }
 public class LV1_17 {
 
