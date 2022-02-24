@@ -1,7 +1,7 @@
 //소수만들기
 import java.util.ArrayList;
 
-public class Solution15 {
+public class LV1_15 {
 
     public int solution(int[] nums) {
         int answer = 0;
