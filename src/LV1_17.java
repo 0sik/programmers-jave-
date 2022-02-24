@@ -1,5 +1,5 @@
-class solution17{
-	public long [] solution(int x, int n)
+class Solution17{
+	public long [] solution(int x, int n) {
 		long[]answer = new long[n];
 		long base = x;
 		for(int i = 0; i < n; i++) {
@@ -11,7 +11,7 @@ public class LV1_17 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		Solution17 solution = new Solution17();
 	
 
 }
