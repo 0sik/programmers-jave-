@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class PR_110¿Å±â±â {
+public class LV1_19 {
     public static String[] solution(String[] s) {
         String[] answer = new String[s.length];
         StringBuilder sb;

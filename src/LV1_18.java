@@ -1,4 +1,4 @@
-public class Problem_002_MySolution02 {
+public class LV1_18 {
 
 	public String solution(String new_id) {
 		
