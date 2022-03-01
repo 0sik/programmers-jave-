@@ -7,11 +7,11 @@ class Solution17{
 		}
 		return answer;
 }
+}
 public class LV1_17 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Solution17 solution = new Solution17();
-	
-
+	}
 }
